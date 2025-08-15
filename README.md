@@ -6,6 +6,5 @@ An app like SF Symbols that browses private SF Symbols
 
 ![Screenshot](https://github.com/user-attachments/assets/1cb27155-1e4e-4598-b281-7fa747e13a70)
 
-⬇️ **Download here →** [PrivateSymbols.dmg](https://github.com/quentinfasquel/PrivateSymbols/releases/download/1.0/PrivateSymbols.dmg) 
-
+⬇️ **Download here →** [PrivateSymbols.dmg](https://github.com/quentinfasquel/PrivateSymbols/releases/download/1.1/PrivateSymbols.dmg) 
 
